@@ -53,8 +53,8 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/e7669b63-b9dc-4922-ba39-1f56972edd61)
 ![image](https://github.com/user-attachments/assets/0aa464cf-960e-4154-9827-b1736a14f52f)
+![image](https://github.com/user-attachments/assets/e02ceb91-aa55-4153-b60a-3c6992914ed2)
 
 
 ### Name:KAVINILAVAN DK
